@@ -1,0 +1,8 @@
+{
+  "tickers": ["PETR4", "VALE3", "ITUB4"],
+  "us": ["AAPL", "MSFT"],
+  "feeds": [
+    ["InfoMoney", "https://www.infomoney.com.br/mercados/feed/"],
+    ["Money Times", "https://www.moneytimes.com.br/feed/"]
+  ]
+}
